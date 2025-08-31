@@ -1,0 +1,6 @@
+cute.db
+*.deb
+*.sha256
+__pycache__/
+*.pyc
+
